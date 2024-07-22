@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+	<config>
+		<filepath path="C:\Saqib\CM Pet Project\Extract  GfisJobInfo 20230611.xlsx"></filepath>
+		<dataset ID="TS"></dataset>
+		<port value="1137"></port>
+		<ipaddress value="127.0.0.1"></ipaddress>
+	</config>
+</Root>
